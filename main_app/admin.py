@@ -3,7 +3,6 @@ from django.contrib.auth.admin import UserAdmin
 from .models import *
 
 
-
 class UserModel(UserAdmin):
     ordering = ('email',)
 
