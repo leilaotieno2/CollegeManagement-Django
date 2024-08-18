@@ -1,0 +1,58 @@
+.
+├── college_management_system
+│   └── __pycache__
+├── main_app
+│   ├── migrations
+│   │   └── __pycache__
+│   ├── __pycache__
+│   ├── static
+│   │   ├── dist
+│   │   │   ├── css
+│   │   │   │   └── alt
+│   │   │   ├── img
+│   │   │   └── js
+│   │   │       └── pages
+│   │   └── plugins
+│   │       ├── bootstrap
+│   │       │   └── js
+│   │       ├── bs-custom-file-input
+│   │       ├── chart.js
+│   │       ├── daterangepicker
+│   │       │   ├── example
+│   │       │   │   ├── amd
+│   │       │   │   └── browserify
+│   │       │   └── website
+│   │       ├── fontawesome-free
+│   │       │   ├── css
+│   │       │   └── webfonts
+│   │       ├── icheck-bootstrap
+│   │       ├── jquery
+│   │       ├── jquery-knob
+│   │       ├── jquery-ui
+│   │       │   ├── external
+│   │       │   │   └── jquery
+│   │       │   └── images
+│   │       ├── jquery-validation
+│   │       │   └── localization
+│   │       ├── moment
+│   │       │   └── locale
+│   │       ├── overlayScrollbars
+│   │       │   ├── css
+│   │       │   └── js
+│   │       ├── popper
+│   │       │   ├── esm
+│   │       │   └── umd
+│   │       ├── sparklines
+│   │       ├── sweetalert2-theme-bootstrap-4
+│   │       └── tempusdominus-bootstrap-4
+│   │           ├── css
+│   │           └── js
+│   └── templates
+│       ├── hod_template
+│       ├── main_app
+│       ├── registration
+│       ├── staff_template
+│       └── student_template
+└── media
+
+55 directories
